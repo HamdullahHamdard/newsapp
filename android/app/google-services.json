@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "920194251113",
+    "project_id": "laravelnotificationflutter",
+    "storage_bucket": "laravelnotificationflutter.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:920194251113:android:2daefcbea438dbed9025f8",
+        "android_client_info": {
+          "package_name": "com.example.newsapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDl9SSDFYm5Q5s3oYQ-HmHbd73e3dl5f30"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
